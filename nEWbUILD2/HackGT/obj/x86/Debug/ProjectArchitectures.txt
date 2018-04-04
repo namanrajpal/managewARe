@@ -1,0 +1,2 @@
+C:\Users\Public\Documents\Unity Projects\HackGT\nEWbUILD2\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Public\Documents\Unity Projects\HackGT\nEWbUILD2\HackGT\HackGT.csproj;x86

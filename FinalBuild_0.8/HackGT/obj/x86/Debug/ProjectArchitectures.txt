@@ -1,0 +1,4 @@
+C:\Users\Public\Documents\Unity Projects\HackGT\FinalBuild_0.8\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Public\Documents\Unity Projects\HackGT\FinalBuild_0.8\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Public\Documents\Unity Projects\HackGT\FinalBuild_0.8\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Public\Documents\Unity Projects\HackGT\FinalBuild_0.8\HackGT\HackGT.csproj;x86
